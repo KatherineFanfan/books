@@ -8,6 +8,7 @@
 * STL
 
 pass-by-value: C-like data types, STL;
+
 pass-by-reference: Object-Oriented C++, user-defined constructor/deconstructor, templete C++;
 
 ## 2. Prefer const, enum, inlines to #define
